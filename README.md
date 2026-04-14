@@ -22,5 +22,17 @@ Key Visualizations
 - Player, team, and strategy analysis
 - Final predictions and conclusions
 
+  Version 1
+- Initial PPT with full analysis  
+- Includes charts, stats, and insights
+
 📥 [Download Presentation](ipl_time_series_category_analysis_2008_2025_version_1.pptx)
 
+  
+
+ Version 2 (Improved)
+- Better design (Canva AI)
+- Clean layout and readability
+- Enhanced storytelling and visuals  
+
+📥[Download Presentation](ipl_time_series_category_analysis_version_1.pptx)
